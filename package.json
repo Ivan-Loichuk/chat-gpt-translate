@@ -1,0 +1,19 @@
+{
+  "name": "@ivan-loichuk/chat-gpt-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Loichuk/chat-gpt-translate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Loichuk/chat-gpt-translate/issues"
+  },
+  "homepage": "https://github.com/Ivan-Loichuk/chat-gpt-translate#readme"
+}
